@@ -2,6 +2,7 @@
 ## Sample Phishing Email
 
 From: security-update@paypa1.com
+
 Subject: Urgent: Your Account Will Be Suspended
 
 Dear Customer,
