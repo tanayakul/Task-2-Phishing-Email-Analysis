@@ -12,6 +12,7 @@ http://paypal-secure-verification.com
 Failure to verify your account may result in permanent suspension.
 
 Thank you,
+
 PayPal Security Team
 
 
@@ -29,11 +30,11 @@ PayPal Security Team
 
 6. Generic Greeting: The email uses "Dear Customer" instead of the recipient's actual name.
 
-## Conclusion
+# Conclusion
 The email contains several phishing characteristics, including a spoofed sender address, urgent language, suspicious links, and social engineering tactics. 
 Users should avoid clicking on such links, verify the sender's identity, and report suspicious emails to the appropriate security team.
 
-# Key concepts learned from this are:
+## Key concepts learned from this are:
 1. Phishing
 2. Email Spoofing
 3. Social Engineering
